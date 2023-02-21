@@ -1,5 +1,5 @@
 # Human-Machine-Interaction-for-the-development-of-an-University-Website-Prototype
-Human Machine Interaction Project to develop a prototype for an University - ISEL
+Human Machine Interaction Project to develop a prototype for an University Website - ISEL
 
 ### Final project of the subject IPM (Interação Pessoa-Máquina)
 
